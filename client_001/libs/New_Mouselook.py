@@ -202,6 +202,8 @@ def main():
 	c = l.getCurrentController()
 	o = c.owner
 	
+	f = "Wetti"
+	
 	# Default settings
 	Sensitivity = 0.0005
 	Invert = 1
