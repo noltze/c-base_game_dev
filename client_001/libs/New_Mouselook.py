@@ -202,7 +202,9 @@ def main():
 	c = l.getCurrentController()
 	o = c.owner
 	
-	f = "Wetti"
+	#f = "Wetti"
+	
+	masterPiece = "Blender"
 	
 	# Default settings
 	Sensitivity = 0.0005
